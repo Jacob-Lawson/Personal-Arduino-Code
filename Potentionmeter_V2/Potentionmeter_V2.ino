@@ -1,3 +1,9 @@
+/*
+    Potentionmeter Control of DHT11 Sensor Output
+    Created by: Jacob Lawson
+    Date: 03/06/2020
+*/
+
 #include "DHT.h"  // required library for the commands used below
 
 #define DHTPIN 4     // what pin we're connected to
