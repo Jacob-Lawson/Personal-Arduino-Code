@@ -1,3 +1,9 @@
+/*
+    Digital Input to RGB V2
+    Created by: Jacob Lawson
+    Date: 02/06/2020
+*/
+
 // Include libraries
 #include <pitches.h>
 #include <Servo.h>
