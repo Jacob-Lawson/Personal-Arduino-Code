@@ -1,3 +1,8 @@
+/*
+    Potentionmeter Control Of Servo Position
+    Created by: Jacob Lawson
+    Date: 03/08/2020
+*/
 #include <Servo.h>  // required library for the commands used below
 
 // RGB LED output ports
